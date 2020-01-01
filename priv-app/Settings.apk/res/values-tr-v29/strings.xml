@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_captioning_title">Captions</string>
+    <string name="accessibility_screen_magnification_navbar_summary">"When magnification is turned on, use the Accessibility button at the bottom of the screen to quickly magnify.
+
+"<b>To zoom</b>", tap the Accessibility button, then tap anywhere on the screen.
+"<li><ul>"Drag 2 or more fingers to scroll
+"<li>Pinch 2 or more fingers to adjust zoom</li></ul></li>"
+
+"<b>To zoom temporarily</b>", tap the Accessibility button, then touch &amp; hold anywhere on the screen.
+"<li><ul>"Drag to move around the screen
+"<li>Lift finger to zoom out</li></ul></li>"
+
+You can’t zoom in on the keyboard or navigation bar."</string>
+    <string name="accessibility_screen_magnification_navbar_title">Magnify with button</string>
+    <string name="accessibility_screen_magnification_state_navbar_gesture">Magnify with button &amp; triple-tap</string>
+    <string name="accessibility_touch_vibration_title">Touch vibration</string>
+    <string name="accessibility_vibration_settings_title">Vibration</string>
+    <string name="app_and_notification_dashboard_summary">Permissions, default apps</string>
+    <string name="app_notification_visibility_override_title">On lock screen</string>
+    <string name="auto_brightness_summary">Optimize brightness level for available light</string>
+    <string name="battery_tip_dialog_message">"Your phone has been used more than usual. Your battery may run out sooner than expected.
+
+Top %1$d apps you used since full charge:"</string>
+    <string name="card_main_hbassistant_title">Red envelope;Red packet;Money</string>
+    <string name="dark_ui_mode">Night mode</string>
+    <string name="dark_ui_mode_title">Set Night mode</string>
+    <string name="default_notification_assistant">Notification assistant</string>
+    <string name="keywords_change_wifi_state">wifi, wi-fi, toggle, control</string>
+    <string name="keywords_display_auto_brightness">dim screen, touchscreen, battery</string>
+    <string name="keywords_sim_status">network, mobile network state, service state, signal strength, mobile network type, roaming, iccid</string>
+    <string name="location_category_location_services">Location services</string>
+    <string name="location_category_recent_location_requests">Recent location requests</string>
+    <string name="location_recent_location_requests_see_all">See all</string>
+    <string name="lock_screen_notifications_interstitial_message">When your device is locked, how do you want notifications to show?</string>
+    <string name="lock_screen_notifications_interstitial_title">Notifications</string>
+    <string name="lock_screen_notifications_title">On lock screen</string>
+    <string name="mi_pay_indonesia">Mi Pay Account</string>
+    <string name="network_dashboard_summary_hotspot">hotspot</string>
+    <string name="notification_channel_summary_default">High importance</string>
+    <string name="notification_channel_summary_high">Urgent importance</string>
+    <string name="notification_channel_summary_low">Medium importance</string>
+    <string name="notification_channel_summary_min">Low importance</string>
+    <string name="privacy_authorize_dialog_message"><Data>"In order to use the basic features of this service, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>."</Data></string>
+    <string name="search_other_settings_sync_settings">Sync;Auto;WLAN only</string>
+    <string name="search_unlogin_account_title">Mi Account; Mi Account ID;Account;Account ID;Xiaomi Account;Account protection;Protect account;Account security;My account</string>
+    <string name="sim_change_data_message">Use %1$s instead of %2$s for mobile data?</string>
+    <string name="speed_label_okay">OK</string>
+    <string name="swipe_up_to_switch_apps_summary">To switch apps, swipe up on the Home button. Swipe up again to see all apps. Works from any screen. You’ll no longer have an Overview button on the bottom right of your screen.</string>
+    <string name="wifi_ap_2G">2.4 GHz</string>
+    <string name="wifi_ap_5G">5.0 GHz</string>
+    <string name="zen_mode_block_effect_list">Hide from notification list</string>
+    <string name="zen_mode_duration_summary_always_prompt">Ask every time (unless turned on automatically)</string>
+    <string name="zen_mode_duration_summary_forever">Until you turn off (unless turned on automatically)</string>
+    <string name="zen_mode_duration_summary_time_minutes">%d minutes (unless turned on automatically)</string>
+</resources>

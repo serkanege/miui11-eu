@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_weather_description">Get weather information ></string>
+    <string name="status_bar_clock_date_time_format">H:mm d MMM, E</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, d MMM, E</string>
+    <string name="wifi_security_eap">WPA/WPA2-Enterprise</string>
+</resources>
